@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Roman Numeral Converter - Algorithm Practice/1.0.0": {
+        "runtime": {
+          "Roman Numeral Converter - Algorithm Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Roman Numeral Converter - Algorithm Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

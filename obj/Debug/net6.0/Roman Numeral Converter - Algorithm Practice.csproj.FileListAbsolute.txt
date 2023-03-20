@@ -1,0 +1,15 @@
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\bin\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.exe
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\bin\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.deps.json
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\bin\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.runtimeconfig.json
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\bin\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.dll
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\bin\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.pdb
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\obj\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.csproj.AssemblyReference.cache
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\obj\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\obj\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\obj\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.AssemblyInfo.cs
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\obj\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\obj\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.dll
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\obj\Debug\net6.0\refint\Roman Numeral Converter - Algorithm Practice.dll
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\obj\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.pdb
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\obj\Debug\net6.0\Roman Numeral Converter - Algorithm Practice.genruntimeconfig.cache
+C:\Users\rober\Documents\C Sharp Projects\Roman Numeral Converter - Algorithm Practice\obj\Debug\net6.0\ref\Roman Numeral Converter - Algorithm Practice.dll
